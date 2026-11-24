@@ -1,0 +1,44 @@
+{
+  "event_a": {
+    "name": "Global Tech Summit",
+    "documents": [
+      {
+        "id": "a_registration",
+        "text": "Global Tech Summit registration opens at 8:00 AM."
+      },
+      {
+        "id": "a_venue",
+        "text": "Global Tech Summit Hall A is on Level 1."
+      },
+      {
+        "id": "a_vip",
+        "text": "VIP sponsors at Global Tech Summit have lounge access."
+      },
+      {
+        "id": "a_cancellation",
+        "text": "Global Tech Summit cancellation is allowed 72 hours before the event."
+      }
+    ]
+  },
+  "event_b": {
+    "name": "Hospitality Leadership Forum",
+    "documents": [
+      {
+        "id": "b_registration",
+        "text": "Hospitality Leadership Forum registration opens at 9:00 AM."
+      },
+      {
+        "id": "b_venue",
+        "text": "Hospitality Leadership Forum Hall C is on Level 3."
+      },
+      {
+        "id": "b_lounge",
+        "text": "Hospitality Leadership Forum does not provide lounge access."
+      },
+      {
+        "id": "b_cancellation",
+        "text": "Hospitality Leadership Forum cancellation is allowed 48 hours before the event."
+      }
+    ]
+  }
+}
